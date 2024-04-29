@@ -17,9 +17,9 @@ Write the C Program using Linux IO Systems locking
 
 Execute the C Program for the desired output. 
 
-# PROGRAM:
-DEVELOPED BY:N.NAVYA SREE
-REG.NO:212223040138
+# PROGRAM:    
+DEVELOPED BY:N.NAVYA SREE     
+REG.NO:212223040138     
 
 ## 1.To Write a C program that illustrates files copying 
 ```
